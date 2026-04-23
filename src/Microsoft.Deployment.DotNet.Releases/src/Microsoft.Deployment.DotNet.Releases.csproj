@@ -10,7 +10,6 @@
     <PatchVersion>2</PatchVersion>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
     <PreReleaseVersionIteration>1</PreReleaseVersionIteration>
-    <SuppressFinalPackageVersion>true</SuppressFinalPackageVersion>
     <DotNetFinalVersionKind>release</DotNetFinalVersionKind>
 
     <!-- Always produce this package in the .NET unified product build so that it may flow to downstream consumers. -->
